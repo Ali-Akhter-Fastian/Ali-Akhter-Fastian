@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a BS Computer Science student at FAST-NUCES (4th semester) with strong foundations in C++, Python, Object-Oriented Programming, and SQL.<br><br>I am actively building projects related to Machine Learning concepts and gaining practical experience to work with libraries such as NumPy, Pandas, and Matplotlib.<br><br>I am looking to collaborate on projects related to:<br><br>->Machine learning <br>->AI agent automation <br>->backend development<br>->SQL database design and optimization.<br><br>I am eager to learn, contribute, and grow through real-world collaboration.<br>
+I am a BS Computer Science student at FAST-NUCES (4th semester) with strong foundations in C++, Python, Object-Oriented Programming, and SQL.<br><brI am actively developing projects in Machine Learning and Data Analysis to strengthen my practical skills with libraries such as NumPy, Pandas, Matplotlib, and Seaborn.<br><br>I am looking to collaborate on projects related to:<br><br>->Machine learning <br>->AI agent automation <br>->Backend development<br>->SQL database design and optimization.<br><br>I am eager to learn, contribute, and grow through real-world collaboration.<br>
 
 
 ## 🌐 Socials:
