@@ -1,35 +1,44 @@
 # 👋 Hi, I'm Ali Akhter
 
-### 💻 Python Backend Developer | FastAPI | PostgreSQL | AI/ML
+### 💻 Software Developer | Backend & Full-Stack | AI/ML Developer | Networking & Cybersecurity
 
 ## 💫 About Me:
 
-I am a 3rd-year BS Computer Science student at FAST-NUCES with a CGPA of 3.75/4.00. I am focused on **Python backend development, AI/ML, and building practical full-stack applications**.<br><br>
+I am a 3rd-year BS Computer Science student at FAST-NUCES with a CGPA of 3.75/4.00, passionate about **software development, AI/ML development, backend engineering, networking, cybersecurity, and emerging technologies**.
 
-I have hands-on experience developing backend systems using **Python, FastAPI, REST APIs, PostgreSQL, SQL, JWT authentication, CRUD operations, and layered architecture**. I also work with **React** for full-stack applications and use **Git/GitHub** for version control and collaboration.<br><br>
+I have hands-on experience building practical applications using **Python, FastAPI, REST APIs, PostgreSQL, SQL, React, Git/GitHub, and AI/ML libraries**. My backend experience includes **API development, authentication, CRUD operations, database integration, server-side logic, testing, and layered application architecture**.
 
-Alongside backend development, I am exploring **Machine Learning, RAG-based AI applications, computer vision, and AI workflow automation using n8n**.<br><br>
+I have worked with Python libraries including **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, and TensorFlow**, developing my skills in **Machine Learning, Deep Learning, data analysis, and computer vision**.
 
-I am interested in collaborating on projects related to:<br><br>
+I am also exploring **RAG-based AI applications, embeddings, semantic retrieval, AI agents, and workflow automation using n8n**. Alongside AI, I am strengthening my understanding of **computer networking, network protocols, cybersecurity concepts, social engineering attacks, vulnerabilities, and defensive techniques**.
 
--> Python backend development<br>
--> REST API development & system architecture<br>
--> AI/ML applications<br>
--> RAG & AI-powered applications<br>
--> AI agent & workflow automation<br>
--> PostgreSQL & SQL database systems<br>
--> Full-stack web development<br><br>
+I enjoy learning by building projects and experimenting with different areas of Computer Science. I am interested in collaborating on projects related to:
 
-I am always looking to learn, build, contribute, and grow through real-world projects and collaboration.<br>
+-> Software & Backend Development
+-> AI/ML & Deep Learning
+-> RAG & Generative AI
+-> AI Agents & Workflow Automation
+-> Full-Stack Web Development
+-> Databases & API Development
+-> Computer Networking & Cybersecurity
+-> Computer Vision & Intelligent Systems
+
+I am always looking to **learn, build, experiment, contribute, and grow through real-world projects**.
 
 ## 🚀 What I Work On:
 
-* 🐍 **Python Backend Development** — FastAPI, REST APIs, server-side logic & backend architecture
-* 🗄️ **Databases** — PostgreSQL, SQL, schema design, CRUD operations & migrations
-* 🔐 **Authentication** — JWT authentication, protected routes & token refresh
+* 🐍 **Backend Development** — Python, FastAPI, REST APIs, server-side logic & layered architecture
 * ⚛️ **Full-Stack Development** — React, Vite, JavaScript & API integration
-* 🤖 **AI & Machine Learning** — ML models, RAG applications, computer vision & recommendations
-* 🔄 **AI Automation** — n8n workflows, webhooks & automated processes
+* 🗄️ **Databases** — PostgreSQL, SQL, schema design, CRUD operations & Alembic migrations
+* 🔐 **Authentication & Security** — JWT authentication, protected routes & security fundamentals
+* 🤖 **Machine Learning** — Scikit-learn, preprocessing, feature engineering, regression & classification
+* 🧠 **Deep Learning** — Exploring TensorFlow, neural networks & deep learning applications
+* 📚 **RAG & Generative AI** — Exploring embeddings, document processing, semantic retrieval & context-aware generation
+* 🤖 **AI Agents & Automation** — n8n, webhooks, AI workflows & automated processes
+* 👁️ **Computer Vision** — OpenCV, object detection & OCR
+* 📊 **Data Analysis** — NumPy, Pandas, Matplotlib & Seaborn
+* 🌐 **Networking** — TCP/IP, HTTP, DNS, SMTP, FTP, packet analysis & network troubleshooting
+* 🛡️ **Cybersecurity** — Exploring security concepts, vulnerabilities, social engineering & common attack techniques
 * 🛠️ **Development Tools** — Git, GitHub, Postman, pytest, Linux & Bash
 
 ## 💡 Featured Project:
@@ -70,10 +79,24 @@ An Uber-like ride booking platform built as a full-stack application using **Fas
 * Data preprocessing & feature engineering
 * Regression & classification
 * Recommendation systems
+* Deep Learning & TensorFlow exploration
 * RAG-based AI applications
+* Embeddings & semantic retrieval
 * Computer vision & OCR
-* AI-powered workflow automation
-* NumPy, Pandas, Scikit-learn & OpenCV
+* AI agents & workflow automation
+* NumPy, Pandas, Matplotlib & Seaborn
+* Scikit-learn, OpenCV & TensorFlow
+
+## 🌐 Networking & Cybersecurity:
+
+* Computer Networking fundamentals
+* TCP/IP & application-layer protocols
+* HTTP, DNS, SMTP, FTP & related protocols
+* Packet analysis & network troubleshooting
+* Network security fundamentals
+* Exploring cybersecurity vulnerabilities and attack techniques
+* Social engineering concepts and attack methods
+* Exploring defensive and security practices
 
 ## 🛠️ Tech Stack:
 
@@ -103,29 +126,44 @@ An Uber-like ride booking platform built as a full-stack application using **Fas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🤖 AI / Data
+### 🤖 AI / ML / Data
 
 ![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### 🤖 AI Automation
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+### 🌐 Networking & Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC.svg?style=for-the-badge\&logo=pytest\&logoColor=white)
 
 ## 📚 Currently Learning:
 
 * Advanced Python Backend Development
-* REST API Design & System Architecture
 * AI Agents & Workflow Automation
-* RAG-based AI Applications
+* RAG & Generative AI
+* TensorFlow & Deep Learning
+* Machine Learning & Model Development
+* Computer Networking & Network Security
+* Cybersecurity Concepts & Common Attack Techniques
+* Social Engineering & Security Awareness
+* API Design & System Architecture
 * Database Optimization
-* Advanced Machine Learning
 
 ## 🌐 Socials:
 
