@@ -1,126 +1,145 @@
-```markdown
 # 👋 Hi, I'm Ali Akhter
 
-### Python Backend Developer | FastAPI | PostgreSQL | AI/ML
+### 💻 Python Backend Developer | FastAPI | PostgreSQL | AI/ML
 
-I am a **Computer Science student at FAST-NUCES** with a **3.75/4.00 CGPA**, focused on building backend systems, AI-powered applications, and full-stack projects.
+## 💫 About Me:
 
-I primarily work with **Python, FastAPI, PostgreSQL, REST APIs, SQL, and React**, with hands-on experience designing backend architectures, implementing authentication and CRUD operations, integrating databases, and developing server-side application logic.
+I am a 3rd-year BS Computer Science student at FAST-NUCES with a CGPA of 3.75/4.00. I am focused on **Python backend development, AI/ML, and building practical full-stack applications**.<br><br>
 
-I also have a strong interest in **Artificial Intelligence and Machine Learning**, particularly in building practical AI applications and automation workflows.
+I have hands-on experience developing backend systems using **Python, FastAPI, REST APIs, PostgreSQL, SQL, JWT authentication, CRUD operations, and layered architecture**. I also work with **React** for full-stack applications and use **Git/GitHub** for version control and collaboration.<br><br>
 
-### 🚀 What I Work On
+Alongside backend development, I am exploring **Machine Learning, RAG-based AI applications, computer vision, and AI workflow automation using n8n**.<br><br>
 
-- 🐍 **Python Backend Development**
-- ⚡ **FastAPI & REST API Development**
-- 🗄️ **PostgreSQL & SQL Database Design**
-- 🔐 **JWT Authentication & Authorization**
-- 🔄 **CRUD Operations & Server-Side Logic**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 **RAG & AI Applications**
-- ⚙️ **AI Workflow Automation with n8n**
-- ⚛️ **React-based Full-Stack Applications**
-- 🔧 **Git & GitHub Development Workflows**
+I am interested in collaborating on projects related to:<br><br>
 
-### 💡 Featured Project
+-> Python backend development<br>
+-> REST API development & system architecture<br>
+-> AI/ML applications<br>
+-> RAG & AI-powered applications<br>
+-> AI agent & workflow automation<br>
+-> PostgreSQL & SQL database systems<br>
+-> Full-stack web development<br><br>
 
-**AI-Driven Full-Stack Ride Booking System**
+I am always looking to learn, build, contribute, and grow through real-world projects and collaboration.<br>
 
-An Uber-like ride booking platform developed using:
+## 🚀 What I Work On:
 
-- **Python & FastAPI**
-- **PostgreSQL & SQL**
-- **React & Vite**
-- **JWT Authentication**
-- **REST APIs**
-- **Alembic Migrations**
-- **pytest & Postman**
-- **n8n Webhooks & AI Workflows**
+* 🐍 **Python Backend Development** — FastAPI, REST APIs, server-side logic & backend architecture
+* 🗄️ **Databases** — PostgreSQL, SQL, schema design, CRUD operations & migrations
+* 🔐 **Authentication** — JWT authentication, protected routes & token refresh
+* ⚛️ **Full-Stack Development** — React, Vite, JavaScript & API integration
+* 🤖 **AI & Machine Learning** — ML models, RAG applications, computer vision & recommendations
+* 🔄 **AI Automation** — n8n workflows, webhooks & automated processes
+* 🛠️ **Development Tools** — Git, GitHub, Postman, pytest, Linux & Bash
 
-The backend follows a **Repository → Service → API** architecture and includes authentication, rides, payments, drivers, matching, ratings, ride history, database operations, and automated workflows.
+## 💡 Featured Project:
 
-### 🤖 AI & Machine Learning
+### 🚗 AI-Driven Full-Stack Ride Booking System
 
-I have worked on projects involving:
+An Uber-like ride booking platform built as a full-stack application using **FastAPI, PostgreSQL, React, and n8n**.
 
-- Machine Learning model development
-- Data preprocessing & feature engineering
-- Supervised & unsupervised learning
-- Regression & classification
-- Recommendation systems
-- RAG-based AI applications
-- Computer vision & OCR
-- AI workflow automation
+**Backend:**
 
-### 🛠️ Tech Stack
+* Python + FastAPI
+* Repository → Service → API architecture
+* REST APIs for authentication, rides, payments, drivers, ratings & history
+* JWT authentication and protected routes
+* PostgreSQL database with Alembic migrations
+* CRUD operations and business logic
+* API testing with Postman and pytest
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**AI & Automation:**
 
-#### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+* n8n-based driver ranking workflow
+* Webhook-based AI/workflow integration
+* Automated email workflows
+* Local fallback mechanism when external workflows fail or timeout
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frontend:**
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* React + Vite
+* shadcn/ui
+* REST API integration
 
-#### AI / Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+🔗 **Backend:** [RIDE BOOKING SYSTEM](https://github.com/Ali-Akhter-Fastian/RIDE_BOOKING_SYSTEM-AI_SDA_DBS-)
+🔗 **Frontend:** [RIDE BOOKING SYSTEM - Frontend](https://github.com/Ali-Akhter-Fastian/RIDE-BOOKING-SYSTEM-Frontend-work)
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+## 🤖 AI & Machine Learning:
 
-### 📚 Currently Learning
+* Machine Learning model development
+* Data preprocessing & feature engineering
+* Regression & classification
+* Recommendation systems
+* RAG-based AI applications
+* Computer vision & OCR
+* AI-powered workflow automation
+* NumPy, Pandas, Scikit-learn & OpenCV
 
-- Advanced Backend Development
-- AI Agent & Workflow Automation
-- Retrieval-Augmented Generation (RAG)
-- API Design & System Architecture
-- Database Optimization
-- Advanced Machine Learning
+## 🛠️ Tech Stack:
 
-### 🤝 Let's Connect
+### 💻 Languages
 
-I am interested in collaborating on projects involving:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge)
 
-**Backend Development • Python • FastAPI • AI/ML • RAG • AI Automation • Databases • Full-Stack Development**
+### ⚙️ Backend & APIs
 
-### 🌐 Connect With Me
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-akhter-935530319/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Akhter-Fastian)
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🤖 AI / Data
+
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+
+## 📚 Currently Learning:
+
+* Advanced Python Backend Development
+* REST API Design & System Architecture
+* AI Agents & Workflow Automation
+* RAG-based AI Applications
+* Database Optimization
+* Advanced Machine Learning
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ali-akhter-935530319/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/Ali-Akhter-Fastian)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Ali-Akhter-Fastian\&theme=tokyonight\&hide_border=true\&include_all_commits=false\&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ali-Akhter-Fastian\&theme=tokyonight\&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Akhter-Fastian\&theme=tokyonight\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-## 📊 GitHub Stats
+[![](https://visitcount.itsvg.in/api?id=Ali-Akhter-Fastian\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api?username=Ali-Akhter-Fastian&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ali-Akhter-Fastian&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Akhter-Fastian&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Ali-Akhter-Fastian&icon=0&color=0)
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
