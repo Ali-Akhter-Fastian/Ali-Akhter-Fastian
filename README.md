@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Akhter
 
-### 💻 Software Developer | Backend & Full-Stack | AI/ML Developer | Networking & Cybersecurity
+### 💻 Software Developer | Full-Stack & Backend Development | AI/ML Developer | Networking & Cybersecurity
 
 ## 💫 About Me:
 
